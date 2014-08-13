@@ -1,0 +1,18 @@
+Compile the Code : 
+1) Open Terminal
+2)`cd` into Assignment directory
+3) Enter `make`
+
+Run the Code : 
+1) Compile the code
+2) Enter `./insertion_sort`
+
+Input Format :
+1) Inputfile contains one number each line
+2) Number in the beginning of the file (1st line) represents Length of the Array
+3) Numbers following are elements of array in order
+
+Output Format:
+1) Outputfile also contains one number each line
+2) Number in the beginning of the file (1st line) represents Runtime of your algorithm code in Milliseconds
+3) Numbers following are elements of array in order
